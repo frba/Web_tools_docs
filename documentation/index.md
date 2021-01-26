@@ -1,8 +1,7 @@
 
-# Tutorials for every technologist
+# Welcome to Web tools's documentation
 
-Learn about all these great technologies:
-
-[Tomcat](./tomcat/index.md)
-[Cloud](installation/index.md)
-[Java](./java/index.md)
+* Contents:
+    * [Installation](./installation/index.md)
+    * [LIMS](lims/index.md)
+    * [Source](source/index.md)

@@ -5,8 +5,8 @@
 
 * [Documentation](documentation/index)
   * [Installation](documentation/installation/index)
-  * [Cloud](documentation/installation/index)
-  * [Java](documentation/java/index)
+  * [LIMS](documentation/lims/index)
+  * [Source](documentation/source/index)
 
 * [About](./about/index)
 
