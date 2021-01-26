@@ -4,4 +4,4 @@
 
 Laboratory management system for Synthetic Biology. 
 
-![Welcome to Opensource.com](./images/new_cover.png)
+![https://frba.github.io/Web_tools_docs/](./images/new_cover.png)
