@@ -3,11 +3,11 @@
 
 * Contents:
     * [Installation](documentation/installation/index)
-    * [LIMS](lims/index)
-        * [User](./lims/user/index)
-        * [Database](./database/index)
-        * [Automation](./automation/index)
-        * [Experiments](./experiments/index)
-        * [Design](./design/index)
-        * [Analysis](./analysis/index)
+    * [LIMS](documentation/lims/index)
+        * [User](documentation/lims/user/index)
+        * [Database](documentation/lims/database/index)
+        * [Automation](documentation/lims/automation/index)
+        * [Experiments](documentation/lims/experiments/index)
+        * [Design](documentation/lims/design/index)
+        * [Analysis](documentation/lims/analysis/index)
     * [Source](source/index)

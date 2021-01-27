@@ -5,9 +5,9 @@
 ![https://www.concordia.ca/research/genome-foundry.html](../../images/lims.png)
 
 * Contents
-    * [User](./user/index.md)
-    * [Database](./database/index.md)
-    * [Automation](./automation/index.md)
-    * [Experiments](./experiments/index.md)
-    * [Design](./design/index.md)
-    * [Analysis](./analysis/index.md)
+    * [User](documentation/lims/user/index)
+    * [Database](documentation/lims/database/index)
+    * [Automation](documentation/lims/automation/index)
+    * [Experiments](documentation/lims/experiments/index)
+    * [Design](documentation/lims/design/index)
+    * [Analysis](documentation/lims/analysis/index)
